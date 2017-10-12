@@ -1,0 +1,23 @@
+{
+  "name": "semantic-ui-range",
+  "version": "1.0.1",
+  "description": "Add-on range slider for Semantic UI",
+  "main": "range.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sondr/semantic-ui-range.git"
+  },
+  "keywords": [
+    "semantic-ui",
+    "semantic-ui-range"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sondr/semantic-ui-range/issues"
+  },
+  "homepage": "https://github.com/sondr/semantic-ui-range#readme"
+}
